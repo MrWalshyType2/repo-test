@@ -1,0 +1,4 @@
+filetoignore.txt
+*.java
+dirToIgnore/
+**/bye/
